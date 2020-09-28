@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   While national and state-level elections are the most high-profile,
   you're probably affected more on a daily basis by local politics.
   Be informed about who you're casting a vote for in local elections.
-baseurl: "/local-voter-guide" # the subpath of your site, e.g. /blog
-url: "https://sardination.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/local-voter-guide" # the subpath of your site, e.g. /blog
+# url: "https://sardination.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sardination
 
 # Build settings
