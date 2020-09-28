@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<header class="ballot-page-header">
+    <h2>Ballot Elections in&nbsp;
+    {%- if page.location.nickname -%}
+        {{ page.location.nickname | escape }}
+    {%- else -%}
+        {{ page.location.name | escape }}
+    {%- endif -%}
+    </h2>
+</header>
+
+<div class="post-content">
+    {{ content }}
+</div>

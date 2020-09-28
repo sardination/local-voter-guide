@@ -1,0 +1,53 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-3">
+        <p>Area Ballot Info Collector:</p>
+        {%- if page.contact -%}
+          <ul class="contact-list">
+            {%- if page.contact.name -%}
+              <li class="p-name">{{ page.contact.name | escape }}</li>
+            {%- endif -%}
+            {%- if page.contact.email_extension -%}
+              <li><a class="u-email" href="mailto:{{ page.contact.email_extension }}+{{ site.email }}">{{ page.contact.email_extension }}+{{ site.email }}</a></li>
+            {%- endif -%}
+            {%- if page.contact.info  -%}
+              <li><p>{{ page.contact.info }}</p></li>
+            {%- endif -%}
+            <li><p>If you are a candidate on this page and would like to dispute or correct any information
+            presented, this is who to contact!</p></li>
+          </ul>
+        {%- endif -%}
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          <li class="p-name">Data presentation notice:</li>
+          <li><p>Unless noted with an asterisk<sup>*</sup>, all top-3 data were collected through responses
+          directly from the candidates themselves. Top-3 data for candidates denoted with an asterisk<sup>*</sup>
+          were collected through best-effort comprehension of campaign websites. Contact or an attempt to contact
+          was made for every candidate on this page.</p></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2 float-right">
+        <ul class="contact-list">
+          <li class="p-name">
+            Questions about this project?
+          </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
