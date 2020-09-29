@@ -233,21 +233,21 @@ ___Board of Education (District 4)___
     </thead>
     <tbody class="candidate-table-body">
         <tr>
-            <td colspan="2" class="cand-name"><a href="https://www.shebraevans.com/">Shebra Evans<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.shebraevans.com/">Shebra Evans</a></td>
         </tr>
         <tr>
             <td>
                 <ol>
-                    <li>Continue expanding public and private partnerships in support of our schools and students, in particular in the early learning care and education of preschoolers.</li>
-                    <li>Ensure all students have opportunity and the necessary supports to succeed and reach their full potential.</li>
-                    <li>Continue efforts to diversify our workforce with emphasis on recruitment and retention with emphasis to increase our own pipeline of talent.</li>
+                    <li>Continue addressing the disparities in student outcomes by closing the gap in opportunity and achievement.</li>
+                    <li>Continue expanding public and private partnerships.</li>
+                    <li>Continue efforts to diversify our teaching workforce with emphasis on recruitment and retention.</li>
                 </ol>
             </td>
             <td>
                 <ol>
-                    <li>First elected to the Montgomery County Board of Education in November 2016. She will serve a second consecutive term as the Board President.</li>
-                    <li>Member of the Board of Directors for the Maryland Association of Boards of Education (MABE)</li>
-                    <li>Served in numerous volunteer leadership roles with the Montgomery County Council of PTAs (MCCPTA)</li>
+                    <li>My experience on the school board, coupled with my leadership, has been an asset. Currently serving as president, for the second consecutive year.</li>
+                    <li>Developed relationships with federal, state, and local elected officials to continue the work needed to make progress for Montgomery County Public Schools.</li>
+                    <li>A Board of Education member and the parent of two MCPS students. Each lens is equally important because they inform the other.</li>
                 </ol>
             </td>
         </tr>
