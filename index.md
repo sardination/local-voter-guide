@@ -22,7 +22,7 @@ layout: home
 <h3>Who are you?</h3>
 ![Suriya!](/assets/suriya_headshot.jpg){: style="float: left; padding-right: 20px;"}
 My name is Suriya Kandaswamy and, after graduating from Harvard with a major in computer science and minor in government this May, I immediately moved back home in order to work remotely and return to the community that I've been in for my entire childhood. The very first time I could vote was in my freshman year of college in 2016. At that time, I was guilty of picking random names for local election races, but now that I'm back home for the 2020 election, I'd like to give back to the Montgomery County community and public school system that raised me and give everyone around me the opportunity to truly make the choices that they believe are best for themselves and their community.
-<br/><br/>
+<br clear="left" />
 
 ***
 

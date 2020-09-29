@@ -131,16 +131,16 @@ ___Board of Education at Large___
             <td><a href="https://www.sunildasgupta.com/">Sunil Dasgupta</a></td>
             <td>
                 <ol>
-                    <li>Help MCPS students recover from academic and mental health losses from the pandemic.</li>
-                    <li>Fix resource allocations and curriculum to make our schools more equitable, especially now during the budget crunch.</li>
-                    <li>Help teachers and staff deliver the best education possible to our students.</li>
+                    <li>Help MCPS students recover from academic and mental health losses of the pandemic. This means fixing online education and planning ahead to be ready to bring students back when public health officials allow it. MCPS must reach the thousands of students who remain unconnected, enable teachers to organize in grade level teams to pre-record virtual lessons, and improve its communication to students, families, teachers, and staff.</li>
+                    <li>Rebalance resource allocations, enable staff diversity, and improve curriculum inclusiveness to make our schools more equitable. This starts with possibly a new boundary review and adjustment policy, rethinking capital spending, and goes all the way to how curriculum is adopted, how to fix the reading skills deficit in the school system, and recruitment and retention of teachers and staff of color.</li>
+                    <li>Help teachers and staff deliver the best education possible to our students. MCPS educators were overwhelmed before and now educators have mastered online delivery without much support. This cannot be expected to continue without burnout. Caring of our educators is central.</li>
                 </ol>
             </td>
             <td>
                 <ol>
-                    <li>20 years of teaching, including seven online, more than 10 years academic administration, planning.</li>
-                    <li>Knowledge of public policy and research, school budgets, and advocacy.</li>
-                    <li>MCPS parent representing a countywide coalition and the changing face of Montgomery County and Maryland.</li>
+                    <li>I have spent 20 years in the classroom and over a decade in academic planning and management and have taught online for seven years. I know what it takes to teach, online and in-person, how curriculum is developed, how teachers are hired and trained. I will work with other Board members and use my academic background to engage with MCPS staff to make clear, data-driven, and transparent decisions.</li>
+                    <li>Knowledge of public policy and research, school budgets, and advocacy. I have clear, realistic, and achievable plans on difficult issues such as the boundary study, mental health support, capital spending, climate change action, special education, and re-opening schools. I founded an annual youth mental health and wellness forum bringing together MCPS, the PTAs, Health and Human Services, and providers.</li>
+                    <li>As a first-generation immigrant, I will bring to the Board my experience managing diversity and overcoming discrimination. I represent a broad coalition of support from Takoma Park to Poolesville and from Bethesda to Clarksburg and represent the changing face of Montgomery County.</li>
                 </ol>
             </td>
         </tr>
