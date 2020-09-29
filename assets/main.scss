@@ -5,16 +5,26 @@ $content-width:    100% !default;
 
 @import "{{ site.theme }}";
 
-p {
-    color: red;
-}
-
-.float-right{
-    float: right;
-}
-
 .footer-col {
   float: left;
   margin-bottom: $spacing-unit / 2;
   padding-right: $spacing-unit * 2;
+}
+
+.footer-p{
+    color: black;
+}
+
+.data-notice{
+    background-color: #dddddd;
+}
+
+h3 {
+    color: #5b2ac4;
+    font-weight: bold;
+}
+
+em {
+    color: #5b2ac4;
+    font-size: 20px;
 }
