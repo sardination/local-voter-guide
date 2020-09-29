@@ -187,21 +187,21 @@ ___Board of Education (District 2)___
     </thead>
     <tbody class="candidate-table-body">
         <tr>
-            <td colspan="2" class="cand-name"><a href="https://michaelfryar.com/">Michael Fryar<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://michaelfryar.com/">Michael Fryar</a></td>
         </tr>
         <tr>
             <td>
                 <ol>
-                    <li>Teacher pay in Montgomery County is appallingly low</li>
-                    <li>Give our teachers permission to teach our students what they really need to know, and give our students a curriculum that will help them in life, not the next standardized test</li>
-                    <li>Passionate about helping children and their families get high quality education that engages their needs and interests</li>
+                    <li>Redistricting to ensure that students are attending the closest school (60% do not) which will also allow us to resolve other issues, including diversifying our impoverished children. No school should have more than a 50% FARMS rate, because of the issues that come with a population facing overwhelming poverty.</li>
+                    <li>The addition of magnet and theme schools to create public school choice. This will allow students the opportunity to attend schools and programs that are appealing to them and their interests, further diversifying our student population.</li>
+                    <li>Expanding pre-kindergarten programs to encompass every child in Montgomery County having the opportunity to attend a program.</li>
                 </ol>
             </td>
             <td>
                 <ol>
-                    <li>Over 30+ years of experience in education</li>
-                    <li>Two youngest children are enrolled in public school in Gaithersburg</li>
-                    <li>Volunteers with Family Services, Inc. (Sheppard Pratt Health System) teaching an ESL course for adults</li>
+                    <li>30+ year education veteran as a classroom teacher, social worker and attorney.</li>
+                    <li>MBA and business background makes me a versatile board member able to understand and discuss complex budget issues.</li>
+                    <li>Compassionate specialist who has dedicated his entire career to working with children, our most vulnerable population.</li>
                 </ol>
             </td>
         </tr>
