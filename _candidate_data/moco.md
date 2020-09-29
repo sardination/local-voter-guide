@@ -27,14 +27,15 @@ ___Judge of Circuit Court (Circuit 6)___
 <table class="candidate-table">
     <thead class="candidate-table-header">
         <tr>
-            <td>Candidate</td>
             <td>What are the <strong>TOP 3</strong> reasons you want to be a circuit court judge?</td>
             <td>What would you consider your <strong>TOP 3</strong> qualifications that you want voters to know?</td>
         </tr>
     </thead>
     <tbody class="candidate-table-body">
         <tr>
-            <td><a href="https://www.electsittingjudgesmcs.com/judge-bibi-m-berry/">Bibi M Berry<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.electsittingjudgesmcs.com/judge-bibi-m-berry/">Bibi M Berry<sup>*</sup></a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Offer fair and reasonable solutions to disputes</li>
@@ -51,7 +52,9 @@ ___Judge of Circuit Court (Circuit 6)___
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.electsittingjudgesmcs.com/judge-david-a-boynton/">David A Boynton<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.electsittingjudgesmcs.com/judge-david-a-boynton/">David A Boynton<sup>*</sup></a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Has acquired the depth and breadth of judicial experience rarely seen in judges</li>
@@ -68,7 +71,9 @@ ___Judge of Circuit Court (Circuit 6)___
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.electsittingjudgesmcs.com/judge-christopher-c-fogleman/">Christopher C Fogleman<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.electsittingjudgesmcs.com/judge-christopher-c-fogleman/">Christopher C Fogleman<sup>*</sup></a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Compassionate and unbiased, listening carefully to all parties, many of whom cannot afford legal representation</li>
@@ -85,7 +90,9 @@ ___Judge of Circuit Court (Circuit 6)___
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.electsittingjudgesmcs.com/judge-michael-mcauliffe/">Michael Joseph McAuliffe<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.electsittingjudgesmcs.com/judge-michael-mcauliffe/">Michael Joseph McAuliffe<sup>*</sup></a></td>
+        </tr>
+        <tr>
             <td>
             </td>
             <td>
@@ -97,7 +104,9 @@ ___Judge of Circuit Court (Circuit 6)___
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.pierreforjudge.com/">Marylin Pierre</a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.pierreforjudge.com/">Marylin Pierre</a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Temper justice with mercy.</li>
@@ -121,14 +130,15 @@ ___Board of Education at Large___
 <table class="candidate-table">
     <thead class="candidate-table-header">
         <tr>
-            <td>Candidate</td>
             <td>What are your <strong>TOP 3</strong> issues, stances, and/or action items?</td>
             <td>What would you consider your <strong>TOP 3</strong> qualifications that you want voters to know?</td>
         </tr>
     </thead>
     <tbody class="candidate-table-body">
         <tr>
-            <td><a href="https://www.sunildasgupta.com/">Sunil Dasgupta</a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.sunildasgupta.com/">Sunil Dasgupta</a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Help MCPS students recover from academic and mental health losses of the pandemic. This means fixing online education and planning ahead to be ready to bring students back when public health officials allow it. MCPS must reach the thousands of students who remain unconnected, enable teachers to organize in grade level teams to pre-record virtual lessons, and improve its communication to students, families, teachers, and staff.</li>
@@ -145,7 +155,9 @@ ___Board of Education at Large___
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.lynne4students.org/">Lynne Harris</a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.lynne4students.org/">Lynne Harris</a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Student voice/community engagement: MCPS must fully embrace the unique wisdom, lived experience, and creative energy of our students and communities as the way we do business and the way we make decisions. We must go beyond emails and social media and reach out to include and engage families in their children's education, especially in marginalized communities.</li>
@@ -169,14 +181,15 @@ ___Board of Education (District 2)___
 <table class="candidate-table">
     <thead class="candidate-table-header">
         <tr>
-            <td>Candidate</td>
             <td>What are your <strong>TOP 3</strong> issues, stances, and/or action items?</td>
             <td>What would you consider your <strong>TOP 3</strong> qualifications that you want voters to know?</td>
         </tr>
     </thead>
     <tbody class="candidate-table-body">
         <tr>
-            <td><a href="https://michaelfryar.com/">Michael Fryar<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://michaelfryar.com/">Michael Fryar<sup>*</sup></a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Teacher pay in Montgomery County is appallingly low</li>
@@ -193,7 +206,9 @@ ___Board of Education (District 2)___
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.smondrowski.com/">Rebecca K. Smondrowski<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.smondrowski.com/">Rebecca K. Smondrowski<sup>*</sup></a></td>
+        </tr>
+        <tr>
             <td>
             </td>
             <td>
@@ -212,14 +227,15 @@ ___Board of Education (District 4)___
 <table class="candidate-table">
     <thead class="candidate-table-header">
         <tr>
-            <td>Candidate</td>
             <td>What are your <strong>TOP 3</strong> issues, stances, and/or action items?</td>
             <td>What would you consider your <strong>TOP 3</strong> qualifications that you want voters to know?</td>
         </tr>
     </thead>
     <tbody class="candidate-table-body">
         <tr>
-            <td><a href="https://www.shebraevans.com/">Shebra Evans<sup>*</sup></a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.shebraevans.com/">Shebra Evans<sup>*</sup></a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Continue expanding public and private partnerships in support of our schools and students, in particular in the early learning care and education of preschoolers.</li>
@@ -236,7 +252,9 @@ ___Board of Education (District 4)___
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.votestevesolomon.com/">Steve Solomon</a></td>
+            <td colspan="2" class="cand-name"><a href="https://www.votestevesolomon.com/">Steve Solomon</a></td>
+        </tr>
+        <tr>
             <td>
                 <ol>
                     <li>Finding a way to open schools safely and bring kids back from virtual learning to in person learning.</li>
