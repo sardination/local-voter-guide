@@ -132,8 +132,8 @@ ___Board of Education at Large___
             <td>
                 <ol>
                     <li>Help MCPS students recover from academic and mental health losses of the pandemic. This means fixing online education and planning ahead to be ready to bring students back when public health officials allow it. MCPS must reach the thousands of students who remain unconnected, enable teachers to organize in grade level teams to pre-record virtual lessons, and improve its communication to students, families, teachers, and staff.</li>
-                    <li>Rebalance resource allocations, enable staff diversity, and improve curriculum inclusiveness to make our schools more equitable. This starts with possibly a new boundary review and adjustment policy, rethinking capital spending, and goes all the way to how curriculum is adopted, how to fix the reading skills deficit in the school system, and recruitment and retention of teachers and staff of color.</li>
-                    <li>Help teachers and staff deliver the best education possible to our students. MCPS educators were overwhelmed before and now educators have mastered online delivery without much support. This cannot be expected to continue without burnout. Caring of our educators is central.</li>
+                    <li>Rebalance resource allocations, enable staff diversity, and improve curriculum inclusiveness to make our schools more equitable. This starts with a new boundary review and adjustment policy, rethinking capital spending, and goes all the way to how curriculum is adopted, how to fix the reading skills deficit, and recruitment and retention of teachers and staff of color.</li>
+                    <li>Help teachers and staff deliver the best education possible to our students. MCPS educators were overwhelmed before and now educators have mastered online delivery without much support. This cannot be expected to continue without burnout. Caring of our educators is central to ensuring education quality in MCPS.</li>
                 </ol>
             </td>
             <td>
